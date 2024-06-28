@@ -15,7 +15,7 @@
     "tailwindcss": "3.0.24",
     "zustand": "^4.4.3"
   },
-  "name": "spotify-twitch-clone",
+  "name": "clon_spotify_astro",
   "scripts": {
     "astro": "astro",
     "build": "astro build",
